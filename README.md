@@ -54,5 +54,23 @@ Kemudian akan muncul tampilan seperti dibawah, dan isi semua lalu klik create re
 \![repository lagi](https://user-images.githubusercontent.com/116176746/197318621-5e535615-52a2-46e9-9be7-995919fb8a3f.png)
 
 
+Menambahkan Remote Repository
+Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user.
+Untuk menambahkan remote repository server, gunakan perintah $ git remote add origin [url]
+
+Mengirim perubahan ke server
+Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
+Perintah ini akan meminta memasukkan username dan password pada akun github.com
+
+
+Melihat hasilanya pada server repository
+
+Caranya adalah dengan buka lama github.com, lalu pilih repository nya
+![hasil pada server repository](https://user-images.githubusercontent.com/116176746/197319289-2717e6a3-30d3-4f3a-a900-68446df052f5.png)
+maka perubahan akan terlihat pada halaman tersebut.
+
+Clone Repository
+
+Clone repository adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory). Untuk melakukan clonning bisa dengan memasukkan perintah $ git clone [url]
 
 
