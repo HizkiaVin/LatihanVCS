@@ -32,5 +32,27 @@ selain menggunakan perintah $ echo "Latihan1" >> README.md kita juga bisa menggu
 Untuk menyimpan perubahan ke database kita bisa menggunakan perintah $ git commit -m "isi sesuai yang diinginkan", disini saya mencoba dengan $ git commit -m "Percobaan Pertama" 
 
 ![commit](https://user-images.githubusercontent.com/116176746/197318245-69e20398-c7c7-40b4-9e76-f5d895cef7f3.png)
+
 Jika sudah sama seperti gambar di atas, artinya perubahan berhasil disimpan.
+
+Membuat Repository Server
+
+Repository server yang akan kita gunakan kali ini adalah github. Kalian bisa mengunjungi web http://github.com . Jika anda belum mempunyai akun, anda bisa membuat akun terlebih dahulu dengan meng-klik Sign Up 
+![sign up github](https://user-images.githubusercontent.com/116176746/197318410-b03ee19a-5de8-41aa-a084-fec2847e937e.png)
+masukkan email yang akan di gunakan beserta dengan passwordnya.
+
+Setelah selesai membuat akun, kemudian klik start a project
+
+![start project](https://user-images.githubusercontent.com/116176746/197318486-02aefa30-6618-4c0f-b98c-4f015c8b153a.png)
+
+atau kalian bisa meng-klik icon (+) lalu new repository
+
+![new repository](https://user-images.githubusercontent.com/116176746/197318579-a50b5a48-5711-485c-9dd0-8b98cf9bb9ec.png)
+
+Kemudian akan muncul tampilan seperti dibawah, dan isi semua lalu klik create repository
+
+\![repository lagi](https://user-images.githubusercontent.com/116176746/197318621-5e535615-52a2-46e9-9be7-995919fb8a3f.png)
+
+
+
 
