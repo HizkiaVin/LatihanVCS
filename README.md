@@ -74,3 +74,5 @@ Clone Repository
 Clone repository adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory). Untuk melakukan clonning bisa dengan memasukkan perintah $ git clone [url]
 
 
+Sekian tutorial penggunaan git dari saya, kurang lebihnya mohon maaf, saya ucapkan terima kasih.
+
